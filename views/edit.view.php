@@ -1,7 +1,7 @@
 <?php session_start(); ?>
 <?php require('partials/head.php'); ?>
 
-<body class="university-lp">
+<body>
 <?php require('partials/header.php'); ?>
 <div class="container">
 <section>
